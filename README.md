@@ -1,1 +1,1 @@
-# html-css-js-for-dignosis-website
+# html-css-js-python-for-dignosis-website
